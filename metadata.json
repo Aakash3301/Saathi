@@ -1,0 +1,6 @@
+{
+  "name": "Saathi - Senior Digital Companion",
+  "description": "An AI-powered digital companion helping seniors understand complicated messages, identify safety warnings and scams, and follow simple step-by-step task guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
